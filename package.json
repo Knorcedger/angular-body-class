@@ -1,0 +1,26 @@
+{
+  "name": "angular-body-class",
+  "description": "An Angular directive that adds the current route controller name as a class to the element it is used",
+  "version": "1.0.0",
+  "author": "Knorcedger",
+  "bugs": "https://github.com/Knorcedger/angular-body-class/issues",
+  "devDependencies": {
+    "eslint": "^2.8.0",
+    "eslint-config-google": "^0.5.0"
+  },
+  "homepage": "https://github.com/Knorcedger/angular-body-class",
+  "keywords": [
+    "$routeChangeSuccess",
+    "angular",
+    "class",
+    "route"
+  ],
+  "license": "MIT",
+  "main": "angular-body-class.js",
+  "repository": {
+    "url": "https://github.com/Knorcedger/angular-body-class"
+  },
+  "scripts": {
+    "test": "eslint angular-body-class.js"
+  }
+}
