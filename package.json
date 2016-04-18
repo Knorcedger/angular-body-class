@@ -1,7 +1,7 @@
 {
   "name": "angular-body-class",
   "description": "An Angular directive that adds the current route controller name as a class to the element it is used",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Knorcedger",
   "bugs": "https://github.com/Knorcedger/angular-body-class/issues",
   "devDependencies": {
